@@ -4,6 +4,4 @@ Hi, i'm Aulay, A passionate and self-learning Web front-end developer, a softwar
 
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-my mail: Aulaydev@gmail.com  
-my site: https://Aulaydev.com
 
