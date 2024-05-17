@@ -1,5 +1,5 @@
-![暗色](https://raw.githubusercontent.com/Bytedo/Bytedo/output/github-contribution-grid-snake-dark.svg)
-![亮色](https://raw.githubusercontent.com/Bytedo/Bytedo/output/github-contribution-grid-snake.svg)
+
+![snake animation](https://raw.githubusercontent.com/Bytedo/Bytedo/output/github-contribution-grid-snake.svg)
 
 <h1>Hi 👋, I'm Bytedo</h1>
 <p>A passionate developer from China</p>
