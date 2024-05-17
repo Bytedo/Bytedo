@@ -1,3 +1,6 @@
+![暗色](https://raw.githubusercontent.com/Bytedo/Bytedo/output/github-contribution-grid-snake-dark.svg)
+![亮色](https://raw.githubusercontent.com/Bytedo/Bytedo/output/github-contribution-grid-snake.svg)
+
 <h1>Hi 👋, I'm Aulaydev</h1>
 <p>A passionate developer from China</p>
 <h2>🚀 Languages and Tools I Use</h2>
@@ -13,7 +16,3 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aulaydev&show_icons=true&locale=en" alt="Aulaydev" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aulaydev&" alt="Aulaydev" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aulaydev&show_icons=true&locale=en&layout=compact" alt="Aulaydev" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aulaydev" alt="Aulaydev" /></a></p>
